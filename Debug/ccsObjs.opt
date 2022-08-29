@@ -1,0 +1,12 @@
+"./tm4c123gh6pm_startup_ccs.obj"
+"./src/APP/SERVICE/src/LED_Blink_A.obj"
+"./src/APP/main.obj"
+"./src/HAL/src/LED.obj"
+"./src/HAL/src/button.obj"
+"./src/MCAL/src/GPIO.obj"
+"./src/MCAL/src/GPTM.obj"
+"./src/MCAL/src/interrupts.obj"
+"./src/MCAL/src/systimer.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
